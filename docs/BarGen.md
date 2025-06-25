@@ -2,7 +2,7 @@
 layout: default
 title: Barcode Generator
 nav_order: 7
-nav_exclude: true
+nav_exclude: false
 ---
 
 <html lang="en">
